@@ -15,7 +15,7 @@ img.onload = function() {
   initSnow();
 }
 img.crossOrigin = "Anonymous";
-img.src = "png/town.svg";
+img.src = "https://raw.githubusercontent.com/kkonnikk/ny2021/main/town.svg";
 
 var flakes;
 
